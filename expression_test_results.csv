@@ -1,0 +1,11 @@
+Expression,Result
+a + b,8
+a - c,3
+a * b,15
+a / d,1.25
+(((a + b) - c) * 10) / d,15.0
+a + x - d,11
+x / y,Error: division by zero
+m + n,Error: Variable 'm' is not defined
+42 + 10,52
+(a + b) * (c + d),48
